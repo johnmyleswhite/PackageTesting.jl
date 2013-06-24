@@ -68,4 +68,8 @@ To experiment with this testing standard, you can try out the `PackageTesting` p
 
 	PackageTesting.test("PackageTesting")
 
-In addition, the DataFrames package now obeys this standard as well.
+In addition, the DataFrames package now obeys this standard as well:
+
+	using PackageTesting
+
+	PackageTesting.test("DataFrames")
