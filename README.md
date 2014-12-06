@@ -1,3 +1,7 @@
+# NOTICE
+
+**This package is deprecated. Do not use it.**
+
 # Introduction
 
 As the number of packages written for Julia has increased, it's become clear that we need a standardized mechanism for testing packages to ensure that user-contributed packages function as advertisted.
